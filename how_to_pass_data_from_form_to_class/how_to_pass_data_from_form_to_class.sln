@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "how_to_pass_data_from_form_to_class", "how_to_pass_data_from_form_to_class\how_to_pass_data_from_form_to_class.csproj", "{0ECA0A5D-E872-4B85-9A64-C52B628B0E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECA0A5D-E872-4B85-9A64-C52B628B0E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECA0A5D-E872-4B85-9A64-C52B628B0E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECA0A5D-E872-4B85-9A64-C52B628B0E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECA0A5D-E872-4B85-9A64-C52B628B0E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29376515-981E-483D-BFAE-7168772E4B71}
+	EndGlobalSection
+EndGlobal
