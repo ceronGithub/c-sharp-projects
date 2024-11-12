@@ -1,0 +1,10 @@
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\bin\Debug\how-to-retrieve-data-from-class.exe.config
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\bin\Debug\how-to-retrieve-data-from-class.exe
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\bin\Debug\how-to-retrieve-data-from-class.pdb
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how-to-retrieve-data-from-class.csproj.AssemblyReference.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how_to_retrieve_data_from_class.Form1.resources
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how_to_retrieve_data_from_class.Properties.Resources.resources
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how-to-retrieve-data-from-class.csproj.GenerateResource.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how-to-retrieve-data-from-class.csproj.CoreCompileInputs.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how-to-retrieve-data-from-class.exe
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\how-to-retrieve-data-from-class\how-to-retrieve-data-from-class\obj\Debug\how-to-retrieve-data-from-class.pdb
