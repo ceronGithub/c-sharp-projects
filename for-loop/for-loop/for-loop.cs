@@ -8,5 +8,14 @@ namespace for_loop
 {
     internal class for_loop
     {
+        public static string staticMethod()
+        {
+            return "static";
+        }
+
+        public string nonStatisMethod()
+        {
+            return "non-static";
+        }
     }
 }

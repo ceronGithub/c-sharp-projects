@@ -1,0 +1,10 @@
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\bin\Debug\for-loop.exe.config
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\bin\Debug\for-loop.exe
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\bin\Debug\for-loop.pdb
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for-loop.csproj.AssemblyReference.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for_loop.Form1.resources
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for_loop.Properties.Resources.resources
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for-loop.csproj.GenerateResource.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for-loop.csproj.CoreCompileInputs.cache
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for-loop.exe
+C:\Users\Ceron Calsena\OneDrive\Desktop\c#-projects\for-loop\for-loop\obj\Debug\for-loop.pdb
