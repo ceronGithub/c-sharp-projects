@@ -1,0 +1,10 @@
+git branch (name of new branch) (existing branch name)
+git stash -u
+git checkout (new branch name)
+git merge (the branch you want to merge into new branch)
+git stash pop
+git add .
+git commit -m "comment"
+git push -u origin (newly created branch)
+
+https://stackoverflow.com/questions/58032024/create-a-new-branch
