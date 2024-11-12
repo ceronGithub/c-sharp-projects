@@ -13,8 +13,8 @@ uploading to git website
 > git checkout -b develop (create new branch) / to change branch (git checkout (branch name))
 > git add .
 > git status
-> git config --global user.email "developerceron@gmail.com"
-> git config --global user.name "ceronGithub"
+> git config --global user.email "..."
+> git config --global user.name "..."
 > git commit -m "name the changes"
 > git status
 > if error on pushing, try closing the editor, then try pushing again.
