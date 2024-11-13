@@ -117,4 +117,88 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace how_to_pass_data_from_form_to_class
+{
+    public partial class Form3 : Form
+    {
+
+        // calls the class file
+        Class methods = new Class();
+
+        public Form3()
+        {
+            InitializeComponent();
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        // public void ShowDialog(ref String recieved) // recieved data string from form1
+        // public void ShowDialog(ref TextBox recieved) // recieved data from textbox directly from form1
+        public void ShowDialog(ref int recieved)
+        {
+            label2.Text = "" + recieved;
+            if (recieved == 0)
+            {
+                label5.Text = "Recieved from Form1:" + recieved;
+                label6.Text = "Received data from class :" + Class.StaticMethod1(recieved);
+            }
+            else
+            {
+                label5.Text = "Didnt Recieved any from Form1";
+                label6.Text = "Received data from class :" + Class.StaticMethod1(recieved);
+            }
+            this.ShowDialog(); //Display and activate this form (Form3)
+        }
+    }
+}</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>       
+FORM 1
+ private void button2_Click(object sender, EventArgs e) // int parameters
+ {
+     int PassDataInt = 0;
+     // string PassDataString = "From Form 1";
+     /* Pass string variable data to form3
+      * via overloading the ShowDialog method
+      */
+     Form3 f3 = new Form3();
+     // f3.ShowDialog(ref PassDataString); // pass data string
+     // f3.ShowDialog(ref you can put textbox here directly); // pass data string
+     f3.ShowDialog(ref PassDataInt);
+ }
+
+
+FORM 3
+
+public void ShowDialog(ref int recieved)
+{
+    label2.Text = "" + recieved;
+    if (recieved == 0)
+    {
+        label5.Text = "Recieved from Form1:" + recieved;
+        label6.Text = "Received data from class :" + Class.StaticMethod1(recieved);
+    }
+    else
+    {
+        label5.Text = "Didnt Recieved any from Form1";
+        label6.Text = "Received data from class :" + Class.StaticMethod1(recieved);
+    }
+    this.ShowDialog(); //Display and activate this form (Form3)
+}</value>
+  </data>
 </root>

@@ -42,8 +42,15 @@ namespace how_to_pass_data_from_form_to_class
 
         private void button2_Click(object sender, EventArgs e) // int parameters
         {
+            int PassDataInt = 0;
+            // string PassDataString = "From Form 1";
+            /* Pass string variable data to form3
+             * via overloading the ShowDialog method
+             */
             Form3 f3 = new Form3();
-            f3.ShowDialog();
+            // f3.ShowDialog(ref PassDataString); // pass data string
+            // f3.ShowDialog(ref you can put textbox here directly); // pass data string
+            f3.ShowDialog(ref PassDataInt);
         }
 
 

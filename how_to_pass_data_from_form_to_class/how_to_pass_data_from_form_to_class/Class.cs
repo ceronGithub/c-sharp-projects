@@ -29,5 +29,16 @@ namespace how_to_pass_data_from_form_to_class
                 return "didnt recieved any data from form!.";
             }
         }
+
+        public static int StaticMethod1(int Ivalue) { 
+            if(Ivalue == 0)
+            {
+                return 1;
+            }
+            else
+            {
+                return -0;
+            }
+        }
     }
 }
